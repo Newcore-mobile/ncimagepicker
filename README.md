@@ -37,6 +37,14 @@ NCImagePicker.takePicture().then((results) {
 
 
 
+## Install
+
+```
+nc_image_picker: ^0.0.1
+```
+
+
+
 # License
 
 ```

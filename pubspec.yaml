@@ -1,6 +1,6 @@
 name: nc_image_picker
-description: A new flutter plugin project.
-version: 0.0.8
+description: Flutter 图片选择器，同时支持Android & iOS.
+version: 0.0.1
 author: YoungChan <zhan.yanyang@xinheyun.com>
 homepage: https://c2.xinheyun.com
 

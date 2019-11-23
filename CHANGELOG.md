@@ -5,10 +5,7 @@
  * @LastEditTime: 2019-10-29 17:51:10
  * @Description: change logs
  -->
-## 0.0.7
 
-* fix bug
-  
-## 0.0.5
+## 0.0.1
 
-* 选择图片插件，可从摄像头和相册里选择
+* Flutter 图片选择插件，同时支持Android & iOS.，可从摄像头和相册里选择

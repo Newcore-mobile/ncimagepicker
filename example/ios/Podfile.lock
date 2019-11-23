@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - GalleryFork (2.2.3)
+  - nc_image_picker (0.0.1):
+    - Flutter
+    - GalleryFork (= 2.2.3)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - nc_image_picker (from `.symlinks/plugins/nc_image_picker/ios`)
+
+SPEC REPOS:
+  https://g.newcoretech.com/mobile/iOSRepo.git:
+    - GalleryFork
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  nc_image_picker:
+    :path: ".symlinks/plugins/nc_image_picker/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  GalleryFork: 7fa1fc0a532df904ba1e7270c8c8a140ecb63d24
+  nc_image_picker: 4ef16a5cbab1f5ca09475e8dee29f7b84d192add
+
+PODFILE CHECKSUM: df48bfc7e21cddb3281f56bfcdec85c70bd74b39
+
+COCOAPODS: 1.8.0
